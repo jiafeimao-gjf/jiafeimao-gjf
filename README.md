@@ -10,8 +10,8 @@
 
 ## I'm doing....
 - [develop for WhereAreTheyV2](https://github.com/jiafeimao-gjf/WhereAreTheyV2) that is to connnect everyone by location sharing!!!
-  - use `Android` to interactive
-  - use `Goland` for backend
+  - use `Android` for interaction
+  - use `Goland` for backend service
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jiafeimao-gjf&show_icons=true&theme=gruvbox" /> 
