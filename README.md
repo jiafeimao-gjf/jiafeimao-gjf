@@ -1,7 +1,7 @@
 ## Hi, I am Thomas Gu, thanks for your watching!
 - I have developed Android app for three years.
 - also like full stack tech to build my own apps!
-
+- to meet me? WeChat: `climbingLifeOfJiafei`
 ## My profiles in other popular platforms
 - [GitHubPage-jiafeimao](https://jiafeimao-gjf.github.io/)
 - [JueJin-加菲猫家的小面具](https://juejin.cn/user/1635719380475005?utm_source=gold_browser_extension)
