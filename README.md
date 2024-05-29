@@ -2,7 +2,7 @@
 - I am do Android app for three years.
 - also like full stack tech to build my own apps!
 
-## my profiles in other popular platforms
+## My profiles in other popular platforms
 - [GitHubPage-jiafeimao](https://jiafeimao-gjf.github.io/)
 - [JueJin-加菲猫家的小面具](https://juejin.cn/user/1635719380475005?utm_source=gold_browser_extension)
 - [CSDN-攀登的力量](https://blog.csdn.net/qq_24380391?type=blog)
@@ -53,5 +53,5 @@
 </span>
 </div>
 
-# my cat 小面具
+# My Cat, chinese name 小面具
 ![](https://assets.leetcode.cn/aliyun-lc-upload/users/goaheadman/avatar_1690511435.png)
