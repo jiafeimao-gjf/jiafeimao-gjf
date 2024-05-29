@@ -1,5 +1,5 @@
 ## Hi, I am Thomas Gu, thanks for your watching!
-- I am do Android app for three years.
+- I have developed Android app for three years.
 - also like full stack tech to build my own apps!
 
 ## My profiles in other popular platforms
