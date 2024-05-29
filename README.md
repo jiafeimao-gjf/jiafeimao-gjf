@@ -1,2 +1,3 @@
-# jiafeimap-gjf
-my latest Actions!!!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jiafeimao-gjf&show_icons=true&theme=transparent" /> 
+</div>
