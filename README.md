@@ -40,12 +40,12 @@
 
 
 <span > 
-  <img alt="Static Badge" src="https://img.shields.io/badge/Java-%2342b883?style=flat-square&logo=Java&logoColor=%23fff"> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/Java-%2342b883?style=flat-square&logo=openjdk&logoColor=%23fff"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-%230072b3?style=flat-square&logo=Python&logoColor=%23fff"> 
   <img src="https://img.shields.io/badge/-Goland-F7DF1E?style=flat-square&logo=Goland&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Android-E34F26?style=flat-square&logo=Android&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-OKR-1572B6?style=flat-square&logo=OKR" /> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/Vue-%23c66394?style=flat-square&logo=Vuejs&logoColor=%23fff"> 
+  <img src="https://img.shields.io/badge/-OKR-1572B6?style=flat-square&logo=okr" /> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/Vuejs-%23c66394?style=flat-square&logo=Vue&logoColor=%23fff"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">  
   <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-F0F032?style=flat-square&logo=Kotlin&logoColor=white">  
