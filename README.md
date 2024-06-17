@@ -22,13 +22,13 @@
 
 <div align="center">
   <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024E07&width=435&lines=男人就是要狠，顶天立地！&center=true&size=32" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02DE00&width=435&lines=男人就是要狠，顶天立地！&center=true&size=32" alt="Typing SVG" />
   </a>
 </div>
 <!-- 人生需要不断的翻越一座又一座大山，努力吧！ -->
 <div align="center">
   <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=020E07&width=1000&lines=人生需要不断的翻越一座又一座大山，努力吧！&center=true&size=28" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00EE00&width=1000&lines=人生需要不断的翻越一座又一座大山，努力吧！&center=true&size=28" alt="Typing SVG" />
   </a>
 </div>
 <!--                       原文链接：https://blog.csdn.net/Cwd_wade/article/details/131657922 -->
